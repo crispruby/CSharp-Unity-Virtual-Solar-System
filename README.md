@@ -28,9 +28,8 @@ Press ‘C’ quickly — Switch back to Watch Targets mode
 ## Web Builds 🌐
 Explore the Solar System Simulator directly in your browser:
 
-Unity Play: https://play.unity.com/en/games/2999071d-01ce-4b84-931a-4195e657d004/solar-system-simulator
-
-Itch.io: https://captain-garneto.itch.io/solar-system-simulator
+- [**Itch Games**](https://captain-garneto.itch.io/solar-system-simulator)
+- [**Unity Play**](https://play.unity.com/en/games/2999071d-01ce-4b84-931a-4195e657d004/solar-system-simulator)
 
 ## Notes 📘
 This project was created to practice 3D modeling, orbital layout, camera control, and interactive educational design in Unity. It includes two navigation systems, object selection logic, and smooth transitions between targets. The Solar System Simulator is part of my ongoing development as a Unity programmer and interactive experience designer.
@@ -38,11 +37,9 @@ This project was created to practice 3D modeling, orbital layout, camera control
 ## Author 👤
 Daniel Anthony Rozek
 
-Portfolio: https://crispruby.github.io/
-
-LinkedIn: https://www.linkedin.com/in/danielrozek/
-
-GitHub: https://github.com/crispruby
+[**Portfolio**](https://crispruby.github.io/), 
+[**LinkedIn**](https://www.linkedin.com/in/danielrozek/), 
+[**GitHub**](https://github.com/crispruby)
 
 ## License 📄
 This project is open‑source for educational and portfolio use.
