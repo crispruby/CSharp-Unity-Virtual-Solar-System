@@ -46,5 +46,5 @@ This project is open‑source for educational and portfolio use.
 
 ## Screenshot Gallery 📸
 
-<img src="images/Earth.png" width="45%">
-<img src="images/Earth2.png" width="45%">
+<img src="images/Earth.png" width="50%">
+<img src="images/Earth2.png" width="50%">
